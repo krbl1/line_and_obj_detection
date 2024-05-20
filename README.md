@@ -5,4 +5,6 @@ yolov3.weights  https://pjreddie.com/media/files/yolov3.weights
 yolov3.cfg      https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
 coco.names      https://github.com/pjreddie/darknet/blob/master/data/coco.names
 
-Также нужно установить все необходимые библиотеки
+Также нужно установить все необходимые библиотеки (requirements.txt)
+
+Загрузить целевое изображение drive.mov или же внести изменения в код для работы с камерой (поменять название изображения на номер камеры (0))
